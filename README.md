@@ -2,3 +2,4 @@
 
 This is our Beauty products marketplace HTML and CSS pages including the IMAGES folder. The total time taken is 7-10 days as we gathered information and shared knowledge with everyone on our team. I strive to make it easier & quicker instead of writing this code manually.
 
+My link to this static web pages is <fonr color="blue">http://myweb.usf.edu/~mkolukula</font>
